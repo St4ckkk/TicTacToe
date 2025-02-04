@@ -1,1 +1,1 @@
-# C_Tic-Tac-Toe
+# TicTacToe made in C Programming
